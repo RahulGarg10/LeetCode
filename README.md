@@ -5,9 +5,9 @@ My Account: https://leetcode.com/u/RahulGarg10/
 
 | # | Title | Python | Difficulty |
 |---| ----- | ------ | ---------- |
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Python](./Python/779.md)|Medium|
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Python](./Python/896.md) | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./Python/977.md) | Easy |
-|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Python](./Python/779.md)|Medium|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Python](./Python/1823.md)|Medium|
 
 
