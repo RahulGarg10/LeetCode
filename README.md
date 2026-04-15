@@ -5,7 +5,7 @@ My Account: https://leetcode.com/u/RahulGarg10/
 
 | # | Title | Python | Difficulty |
 |---| ----- | ------ | ---------- |
-|053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](./Python/053.md)|Easy|
+|053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](./Python/053.md)|Medium|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Python](./Python/779.md)|Medium|
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Python](./Python/896.md) | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./Python/977.md) | Easy |
